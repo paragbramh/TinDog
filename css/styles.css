@@ -138,12 +138,13 @@ p {
 
 /* FOOTER SECTION */
 #footer {
-  padding: 7% 15%;
+  padding: 2% 10%;
   text-align: center;
 }
 
 .social-icon {
   margin: 20px 10px;
+  
 }
 
 @media (max-width: 1028px) {
